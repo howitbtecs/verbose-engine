@@ -15,5 +15,5 @@ twitter: https://twitter.com/Mario_Gomez
 
 Instagram: https://www.instagram.com/mario/
 
-Discord
+Discord: https://discord.com/invite/mario
 
