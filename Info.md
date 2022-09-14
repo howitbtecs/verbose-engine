@@ -1,3 +1,8 @@
+[Home](https://howitbtecs.github.io/verbose-engine/index)
+[Info](https://howitbtecs.github.io/verbose-engine/Info)
+[About Us](https://howitbtecs.github.io/verbose-engine/about)
+[Contact US](https://howitbtecs.github.io/verbose-engine/contact)
+
 Mario Kart
 
 Mario Kart is a series of racing games developed and published by Nintendo. Players compete in go-kart races while using various power-up items. 
