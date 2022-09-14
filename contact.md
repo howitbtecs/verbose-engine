@@ -1,9 +1,9 @@
-[Home](https://howitbtecs.github.io/verbose-engine/index)
+[Home](https://howitbtecs.github.io/verbose-engine/)
 [Info](https://howitbtecs.github.io/verbose-engine/Info)
 [About Us](https://howitbtecs.github.io/verbose-engine/about)
 [Contact US](https://howitbtecs.github.io/verbose-engine/contact)
 
-Hello World 
+Hello World. 
 
 Please contact our website using information below.
 
@@ -15,5 +15,5 @@ twitter: https://twitter.com/Mario_Gomez
 
 Instagram: https://www.instagram.com/mario/
 
-
+Discord
 
